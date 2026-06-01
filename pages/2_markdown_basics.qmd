@@ -5,3 +5,4 @@ title: "Exercise 2. Markdown basics"
 ## Section 1
 ## Smaller section
 ---
+**DO NOT** put things in bold or *ITALICS*
