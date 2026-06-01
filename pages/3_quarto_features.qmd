@@ -1,3 +1,27 @@
 ---
 title: "Exercise 3. Quarto features"
 ---
+::: {.callout-tip}:::
+::: {.callout-tip title="Helpful hint"}
+Remember to save your file before you render.
+:::
+
+:::: 
+::: {.columns}
+
+::: {.column width=70%}
+
+![](/images/south_cloisters.jpg){fig-alt="Photograph of South Cloisters"}
+
+:::
+
+::: {.column width=30%}
+
+**South Cloisters**, University of Exeter, St Luke's Campus, Heavitree Road, Exeter EX1 2LU
+
+:::
+
+::::
+Photograph [^1]
+
+[^1]: This is a picture of south cloisters 

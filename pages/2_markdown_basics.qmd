@@ -5,7 +5,26 @@ title: "Exercise 2. Markdown basics"
 ## Section 1
 ## Smaller section
 ---
+
 **DO NOT** put things in bold or *ITALICS*
 
 * Bullet 1
 * [ ]
+
+ 1. numbered point 1
+
+> > help to use code 
+
+<https://www.nihr.ac.uk/funding-programmes/research-for-patient-benefit>
+[RFPB] (https://www.nihr.ac.uk/funding-programmes/research-for-patient-benefit)
+
+[RFPB](https://www.nihr.ac.uk/funding-programmes/research-for-patient-benefit)
+
+---
+
+|author|Year|Title|
+|-|-|-|
+|Monks|2026|Quarto|
+
+::: {.callout-tip title="Helpful hint"} please look at the quarto template to help you 
+:::
