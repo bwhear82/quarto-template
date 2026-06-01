@@ -7,7 +7,7 @@ website:
     right:
       - icon: github
         text: GitHub
-        href: https://github.com/pythonhealthdatascience/quarto-template/
+        href: https://github.com/bwhear82.github.io/ISCA-Evidence/
   sidebar:
     - logo: images/exeter.png
       contents:
