@@ -13,23 +13,23 @@
   {
     "objectID": "pages/2_markdown_basics.html",
     "href": "pages/2_markdown_basics.html",
-    "title": "Exercise 2. Markdown basics",
+    "title": "Osteoperosis",
     "section": "",
     "text": "DO NOT put things in bold or ITALICS\n\nBullet 1\n[ ]\n\n\nnumbered point 1\n\n\n\nhelp to use code\n\n\nhttps://www.nihr.ac.uk/funding-programmes/research-for-patient-benefit [RFPB] (https://www.nihr.ac.uk/funding-programmes/research-for-patient-benefit)\nRFPB\n\n\n\n\nauthor\nYear\nTitle\n\n\n\n\nMonks\n2026\nQuarto\n\n\n\n::: {.callout-tip title=“Helpful hint”} please look at the quarto template to help you :::",
     "crumbs": [
       "GitHub",
-      "Exercise 2. Markdown basics"
+      "Osteoperosis"
     ]
   },
   {
     "objectID": "pages/2_markdown_basics.html#smaller-section",
     "href": "pages/2_markdown_basics.html#smaller-section",
-    "title": "Exercise 2. Markdown basics",
+    "title": "Osteoperosis",
     "section": "",
     "text": "DO NOT put things in bold or ITALICS\n\nBullet 1\n[ ]\n\n\nnumbered point 1\n\n\n\nhelp to use code\n\n\nhttps://www.nihr.ac.uk/funding-programmes/research-for-patient-benefit [RFPB] (https://www.nihr.ac.uk/funding-programmes/research-for-patient-benefit)\nRFPB\n\n\n\n\nauthor\nYear\nTitle\n\n\n\n\nMonks\n2026\nQuarto\n\n\n\n::: {.callout-tip title=“Helpful hint”} please look at the quarto template to help you :::",
     "crumbs": [
       "GitHub",
-      "Exercise 2. Markdown basics"
+      "Osteoperosis"
     ]
   },
   {
@@ -57,12 +57,12 @@
   {
     "objectID": "pages/1_making_a_change.html",
     "href": "pages/1_making_a_change.html",
-    "title": "Exercise 1. Making a change",
+    "title": "PANS PANDAS Unveiled",
     "section": "",
     "text": "this is my new sentence this is a second sentence",
     "crumbs": [
       "GitHub",
-      "Exercise 1. Making a change"
+      "PANS PANDAS Unveiled"
     ]
   }
 ]
