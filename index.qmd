@@ -13,3 +13,5 @@ date: 06-01-2026
 The programme of work involves appraising and synthesising research and other evidence relating to effectiveness, cost-effectiveness and patient experience across health and social care.  We work closely with policy makers to make sure that our evidence syntheses address important policy and practice needs. Our outputs may include systematic reviews, qualitative evidence syntheses, rapid reviews and evidence and gap maps depending on the policy requirement and the evidence available. Where possible, we also capitalise on our substantive work to drive methods innovation.
 
 > **Introduction to Quarto for Research Projects**. [Tutorial Website](https://pythonhealthdatascience.github.io/quarto-tutorial/).
+
+![](/images/Isca_team.jpeg){width=50%}
