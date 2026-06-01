@@ -1,10 +1,10 @@
 ---
-title: Quarto Template
+title: ISCA Evidence
 author:
-  - name: Amy Heather
+  - name: Michael Nunns
     orcid: 0000-0002-6596-3479
     affiliations: University of Exeter
-  - name: Thomas Monks
+  - name: Sam Febrey
     orcid: 0000-0003-2631-4481
     affiliations: University of Exeter
 date: 06-01-2026
