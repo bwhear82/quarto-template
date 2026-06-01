@@ -6,3 +6,5 @@ title: "Exercise 2. Markdown basics"
 ## Smaller section
 ---
 **DO NOT** put things in bold or *ITALICS*
+* Bullet 1
+* [ ]
